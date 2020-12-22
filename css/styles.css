@@ -1,0 +1,119 @@
+#title {
+  background-color: pink;
+  text-align: center;
+}
+
+.container-fluid {
+  padding: 3rem 5rem;
+}
+
+.iphone-image {
+  transform: rotate(30deg);
+  width: 15rem;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.5;
+  font-family: 'Montserrat-black'
+}
+
+.navbar {
+  margin-bottom: 4.5rem;
+}
+
+.navbar-brand {
+  font-family: 'Parisienne', cursive;
+  font-weight: bold;
+}
+
+.fab {
+  padding-right: 5px;
+}
+
+h3 {
+  font-family: 'Montserrat';
+  font-size: 100%;
+}
+
+.pricing-header {
+  font-weight: bold;
+}
+
+#features {
+  margin: 6rem 0;
+  text-align: center;
+  position: relative;
+  background-color: white;
+  z-index: 999;
+}
+
+.fas {
+  color: pink;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 6rem;
+  border-radius: 3rem;
+  margin: 2rem;
+}
+
+.carousel-item {
+  padding: 5rem 6rem;
+}
+
+#press {
+  margin: 10rem 0;
+  text-align: center;
+}
+
+.press-images {
+  width: 16rem;
+}
+
+#pricing {
+  text-align: center;
+  background-color: #ef8192;
+  padding: 3rem 0;
+}
+
+.card {
+  margin: 1.5rem 0;
+}
+
+#cta {
+  text-align: center;
+  padding: 3rem 3rem;
+}
+
+.p-header-cta {
+  font-size: 2.5rem;
+}
+
+.cta-btn-dark, .cta-btn-light {
+  margin: 2rem 1rem;
+}
+
+#footer {
+  padding: 3rem;
+  text-align: center;
+  background-color: #ef8172;
+  ;
+}
+
+.footer-contact {
+  padding: 2rem;
+}
+
+.footer-contact .fab {
+  font-size: 1.5rem;
+  padding: 1rem;
+}
